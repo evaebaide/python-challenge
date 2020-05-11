@@ -1,4 +1,4 @@
-# python Financial records Analysis,
-Election records analysis
+# python Financial records Analysis, Election records analysis.
+
 
 
